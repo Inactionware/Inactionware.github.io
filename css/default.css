@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    border: 1px dashed #000
+}
+
+.navigation {
+    flex: 4;
+}
